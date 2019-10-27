@@ -1,0 +1,38 @@
+.ggreen{
+    background-color: green;
+    color: white;
+    padding: 20px 50px;
+    margin: 4px 10px;
+    border-radius: 12px;
+}
+.yellow{
+    background-color: yellow;
+    color: black;
+    padding: 20px 50px;
+    margin: 4px 10px;
+    border-radius: 12px;
+}
+.orange{
+    background-color: orange;
+    color: white;
+    padding: 20px 50px;
+    margin: 4px 10px;
+    border-radius: 12px;
+}
+.red{
+    background-color: red;
+    color: black;
+    padding: 20px 50px;
+    margin: 4px 10px;
+    border-radius: 12px;
+}
+.green{
+    background-color: greenyellow;
+    color: white;
+    padding: 20px 50px;
+    margin: 4px 10px;
+    border-radius: 12px;
+}
+a:hover{
+    box-shadow: grey 0px 0px 50px 20px;
+}

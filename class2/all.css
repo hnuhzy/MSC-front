@@ -1,0 +1,32 @@
+table.form{
+    margin: auto;
+    border-collapse: collapse;
+}
+th.side{
+    padding: 8px;
+    border: none;
+    text-align: center;
+}
+th.middle{
+    border: none;
+}
+th{
+    border: thin solid black;
+    /* border: none; */
+    padding: 8px;
+}
+.center{
+    width: 260px;
+    height: 20px;
+}
+.header{
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 20px;
+}
+.bottom{
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 20px;
+}
+
